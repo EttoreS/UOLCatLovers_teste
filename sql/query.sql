@@ -1,1 +1,0 @@
-SELECT * FROM cat_facts WHERE create_date = '2020-08-01' AND '2020-08-31';
